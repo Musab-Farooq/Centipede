@@ -61,7 +61,7 @@ Want to try Centipede **without compiling**?
 
 - [**Download the ZIP release**](https://github.com/Musab-Farooq/Centipede/blob/main/Executable_Centipede.zip)  
 - Extract the folder.
-- Run the provided `.exe` file inside to launch Paint Beats instantly!
+- Run the provided `.exe` file inside to launch Centipede instantly!
 
 ---
 
