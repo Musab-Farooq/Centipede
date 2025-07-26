@@ -50,20 +50,20 @@ Each action increases your score. The game ends when an enemy touches the player
 ## 🛠️ Requirements
 
 - C++ compiler (g++, clang++, MSVC)
-- SFML library (version ≥ 2.5)
+- Install [SFML](https://www.sfml-dev.org/download.php) and configure your compiler to link it properly.
 - Texture and audio files (included)
 
 ---
 
-## 🧱 Installation & Running the Game
+## 📦 One-Click Run
 
-### 🔹 Windows (Recommended)
+Want to try Centipede **without compiling**?
 
-1. **Download the executable ZIP from the Releases tab.**
-2. Extract it.
-3. Double-click `Centipede.exe` to play.  
-   ✅ No SFML setup needed!
+- [**Download the ZIP release**](https://github.com/Musab-Farooq/Centipede/blob/main/Executable_Centipede.zip)  
+- Extract the folder.
+- Run the provided `.exe` file inside to launch Paint Beats instantly!
 
+---
 
 ## 📦 Assets Included
 
